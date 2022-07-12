@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": [
+        {
+            "item": "minecraft:deepslate_copper_ore"
+        },
+        {
+            "item": "minecraft:copper_ore"
+        },
+        {
+            "item": "minecraft:raw_copper"
+        }
+    ],
+    "result": "minecraft:copper_ingot",
+    "experience": 0.7,
+    "cookingtime": 125,
+    "group": "Valuable Minerals"
+}

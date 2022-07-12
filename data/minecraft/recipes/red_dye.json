@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            {
+                "item": "minecraft:poppy"
+            },
+            {
+                "item": "minecraft:rose_bush"
+            },
+            {
+                "item": "minecraft:beetroot"
+            },
+            {
+                "item": "minecraft:red_tulip"
+            }
+        ]
+    ],
+    "result": {
+        "item": "minecraft:red_dye",
+        "count": 1
+    },
+    "group": "Dyes"
+}

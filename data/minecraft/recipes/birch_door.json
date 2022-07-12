@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "Bi",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:birch_logs"
+        },
+        "B": {
+            "item": "minecraft:birch_planks"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:birch_door",
+        "count": 3
+    },
+    "group": "Door"
+}

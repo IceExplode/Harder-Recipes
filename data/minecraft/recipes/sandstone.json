@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sand"
+        }
+    },
+    "result": {
+        "item": "minecraft:sandstone",
+        "count": 1
+    },
+    "group": "Building Material"
+}

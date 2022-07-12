@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "gGg",
+        "GMG",
+        "gGg"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+        "M": {
+            "item": "minecraft:melon_slice"
+        },
+        "g": {
+            "item": "minecraft:gold_nugget"
+        }
+    },
+    "result": {
+        "item": "minecraft:glistering_melon_slice",
+        "count": 1
+    },
+    "group": "Recipe Ingredients"
+}

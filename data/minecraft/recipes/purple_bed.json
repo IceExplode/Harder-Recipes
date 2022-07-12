@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "ODO"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:purple_wool"
+        },
+        "O": {
+            "tag": "minecraft:logs"
+        },
+        "D": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:purple_bed",
+        "count": 1
+    },
+    "group": "Colored Bed"
+}

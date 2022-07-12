@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "Cg",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:crimson_stems"
+        },
+        "C": {
+            "item": "minecraft:crimson_planks"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:crimson_door",
+        "count": 1
+    },
+    "group": "Door"
+}

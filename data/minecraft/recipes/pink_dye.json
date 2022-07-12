@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "adventure:tag3"
+        }
+    ],
+    "result": {
+        "item": "minecraft:pink_dye",
+        "count": 1
+    },
+    "group": "Dyes"
+}

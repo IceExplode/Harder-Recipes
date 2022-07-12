@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#T#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:birch_planks"
+        },
+        "T": [
+            {
+                "item": "minecraft:wooden_shovel"
+            },
+            {
+                "item": "minecraft:stone_shovel"
+            },
+            {
+                "item": "minecraft:iron_shovel"
+            },
+            {
+                "item": "minecraft:golden_shovel"
+            },
+            {
+                "item": "minecraft:diamond_shovel"
+            },
+            {
+                "item": "minecraft:netherite_shovel"
+            }
+        ]
+    },
+    "result": {
+        "item": "minecraft:birch_boat",
+        "count": 1
+    },
+    "group": "Boat"
+}

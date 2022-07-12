@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:raw_copper_block"
+        }
+    ],
+    "result": {
+        "item": "minecraft:raw_copper",
+        "count": 9
+    },
+    "group": "Raw Metal"
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#F#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:logs"
+        },
+        "F": {
+            "item": "minecraft:furnace"
+        }
+    },
+    "result": {
+        "item": "minecraft:smoker",
+        "count": 1
+    },
+    "group": "Smelting"
+}

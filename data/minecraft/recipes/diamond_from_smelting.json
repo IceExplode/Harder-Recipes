@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "tag": "minecraft:diamond_ores"
+    },
+    "result": "minecraft:diamond",
+    "experience": 1,
+    "cookingtime": 250,
+    "group": "Valuable Minerals"
+}

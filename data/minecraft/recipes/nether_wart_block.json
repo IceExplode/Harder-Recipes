@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:nether_wart"
+        }
+    },
+    "result": {
+        "item": "minecraft:nether_wart_block",
+        "count": 1
+    },
+    "group": "Collectibles"
+}

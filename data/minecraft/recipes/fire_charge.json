@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:magma_cream"
+        },
+        {
+            "item": "minecraft:coal"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:blaze_powder"
+        }
+    ],
+    "result": {
+        "item": "minecraft:fire_charge",
+        "count": 1
+    },
+    "group": "Utility"
+}

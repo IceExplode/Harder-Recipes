@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "Oi",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:oak_logs"
+        },
+        "O": {
+            "item": "minecraft:oak_planks"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:oak_door",
+        "count": 3
+    },
+    "group": "Door"
+}

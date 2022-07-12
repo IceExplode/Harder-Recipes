@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "PGP",
+        "#C#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "C": {
+            "item": "minecraft:chiseled_polished_blackstone"
+        },
+        "P": {
+            "item": "minecraft:polished_blackstone"
+        },
+        "G": {
+            "item": "minecraft:glowstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:respawn_anchor",
+        "count": 1
+    },
+    "group": "Utility"
+}

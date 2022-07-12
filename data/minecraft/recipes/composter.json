@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "_ _",
+        "_ _",
+        "___"
+    ],
+    "key": {
+        "_": {
+            "tag": "minecraft:wooden_slabs"
+        }
+    },
+    "result": {
+        "item": "minecraft:composter",
+        "count": 1
+    },
+    "group": "Stationary Block"
+}

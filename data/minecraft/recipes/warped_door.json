@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "Wg",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:warped_stems"
+        },
+        "W": {
+            "item": "minecraft:warped_planks"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:warped_door",
+        "count": 1
+    },
+    "group": "Door"
+}

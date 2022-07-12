@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        "DOD",
+        "OOO"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:carpets"
+        },
+        "B": {
+            "item": "minecraft:book"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        }
+    },
+    "result": {
+        "item": "minecraft:enchanting_table",
+        "count": 1
+    },
+    "group": "Magic"
+}

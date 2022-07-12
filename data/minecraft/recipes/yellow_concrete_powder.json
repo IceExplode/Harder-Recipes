@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "minecraft:sand"
+        },
+        {
+            "item": "minecraft:gravel"
+        },
+        {
+            "item": "minecraft:yellow_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:yellow_concrete_powder",
+        "count": 1
+    },
+    "group": "Colored Concrete Powder"
+}

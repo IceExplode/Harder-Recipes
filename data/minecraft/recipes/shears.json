@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " i ",
+        " ii",
+        "i  "
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:shears",
+        "count": 1
+    },
+    "group": "Utility"
+}

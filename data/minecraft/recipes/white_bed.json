@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "OFO"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:white_wool"
+        },
+        "O": {
+            "tag": "minecraft:logs"
+        },
+        "F": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:white_bed",
+        "count": 1
+    },
+    "group": "Colored Bed"
+}

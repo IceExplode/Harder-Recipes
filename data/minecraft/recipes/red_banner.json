@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:red_wool"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:red_banner",
+        "count": 1
+    },
+    "group": "Colored Banners"
+}

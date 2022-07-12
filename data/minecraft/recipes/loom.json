@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "OO",
+        "OO"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:string"
+        },
+        "O": {
+            "tag": "minecraft:logs"
+        }
+    },
+    "result": {
+        "item": "minecraft:loom",
+        "count": 1
+    },
+    "group": "Stationary Block"
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#G#",
+        "G#G",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:dirt"
+        },
+        "G": {
+            "item": "minecraft:gravel"
+        }
+    },
+    "result": {
+        "item": "minecraft:coarse_dirt",
+        "count": 3
+    },
+    "group": "Collectibles"
+}

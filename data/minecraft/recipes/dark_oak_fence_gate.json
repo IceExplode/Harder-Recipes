@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "/D/",
+        "/D/"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "D": {
+            "item": "minecraft:dark_oak_planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:dark_oak_fence_gate",
+        "count": 1
+    },
+    "group": "Fence Gate"
+}

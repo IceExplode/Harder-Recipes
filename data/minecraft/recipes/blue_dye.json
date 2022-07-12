@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            {
+                "item": "minecraft:lapis_lazuli"
+            },
+            {
+                "item": "minecraft:cornflower"
+            }
+        ]
+    ],
+    "result": {
+        "item": "minecraft:blue_dye",
+        "count": 1
+    },
+    "group": "Dyes"
+}

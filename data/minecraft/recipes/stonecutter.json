@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "SSS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_ingot"
+        },
+        "S": {
+            "tag": "minecraft:stone_tool_material"
+        }
+    },
+    "result": {
+        "item": "minecraft:stonecutter",
+        "count": 1
+    },
+    "group": "Stationary Block"
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        "#C#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_ingots"
+        },
+        "C": [
+            {
+                "item": "minecraft:chest"
+            },
+            {
+                "item": "minecraft:trapped_chest"
+            },
+        ]
+    },
+    "result": {
+        "item": "minecraft:hopper",
+        "count": 1
+    },
+    "group": "Redstone Components"
+}

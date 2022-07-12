@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " G ",
+        "GEG",
+        "#J#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:obsidian"
+        },
+        "G": {
+            "item": "minecraft:glass"
+        },
+        "E": {
+            "item": "minecraft:ender_eye"
+        },
+        "J": {
+            "item": "minecraft:ghast_tear"
+        }
+    },
+    "result": {
+        "item": "minecraft:end_crystal",
+        "count": 1
+    },
+    "group": "Utility"
+}

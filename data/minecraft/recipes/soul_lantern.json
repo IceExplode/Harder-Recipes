@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "iSi",
+        "IiI"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:chain"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "S": {
+            "item": "minecraft:soul_torch"
+        },
+        "I": {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    "result": {
+        "item": "minecraft:soul_lantern",
+        "count": 1
+    },
+    "group": "Light"
+}

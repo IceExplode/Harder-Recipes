@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "H",
+        "H"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:string"
+        },
+        "H": {
+            "item": "minecraft:honeycomb"
+        }
+    },
+    "result": {
+        "item": "minecraft:candle",
+        "count": 1
+    },
+    "group": "Candle"
+}

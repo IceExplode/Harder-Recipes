@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:red_dye"
+        },
+        {
+            "item": "minecraft:blue_dye"
+        },
+        {
+            "item": "minecraft:pink_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:magenta_dye",
+        "count": 1
+    },
+    "group": "Alternate Dye Recipe"
+}

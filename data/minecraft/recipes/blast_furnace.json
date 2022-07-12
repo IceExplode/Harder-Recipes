@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#F#",
+        "PPP"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_ingot"
+        },
+        "F": {
+            "item": "minecraft:furnace"
+        },
+        "P": {
+            "tag": "minecraft:polished_stone"
+        }
+    },
+    "result": {
+        "item": "minecraft:blast_furnace",
+        "count": 1
+    },
+    "group": "Smelting"
+}
