@@ -7,7 +7,7 @@
     ],
     "key": {
         "#": {
-            "tag": "minecraft:unpolished_stone"
+            "tag": "minecraft:stone_crafting_materials"
         },
         "C": {
             "item": "minecraft:campfire"

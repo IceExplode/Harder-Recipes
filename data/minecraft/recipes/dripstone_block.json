@@ -1,6 +1,5 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "pointed_dripstone",
   "pattern": [
     "###",
     "###",
@@ -14,5 +13,5 @@
   "result": {
     "item": "minecraft:dripstone_block"
   },
-  "group": "Nature"
+  "group": "Building Blocks"
 }

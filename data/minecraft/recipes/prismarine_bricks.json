@@ -7,11 +7,12 @@
   ],
   "key": {
     "S": {
-      "item": "minecraft:amethyst_shard"
+      "item": "minecraft:prismarine_shard"
     }
   },
   "result": {
-    "item": "minecraft:amethyst_block"
+    "item": "minecraft:prismarine_bricks",
+    "count": 1
   },
-    "group": "Building Blocks"
+  "group": "Bricks"
 }

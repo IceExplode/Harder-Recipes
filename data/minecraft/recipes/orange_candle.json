@@ -1,18 +1,16 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        " # ",
-        "#C#",
-        " # "
-    ],
-    "key": {
-        "#": {
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:candle"
+        },
+        {
             "item": "minecraft:orange_dye"
         },
-        "C": {
-            "item": "minecraft:candle"
+        {
+            "item": "minecraft:orange_dye"
         }
-    },
+    ],
     "result": {
         "item": "minecraft:orange_candle",
         "count": 1

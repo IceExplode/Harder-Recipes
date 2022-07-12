@@ -1,9 +1,9 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
+        "S#S",
         "#F#",
-        "###"
+        "S#S"
     ],
     "key": {
         "#": {
@@ -11,6 +11,9 @@
         },
         "F": {
             "item": "minecraft:furnace"
+        },
+        "S": {
+            "item": "minecraft:stick"
         }
     },
     "result": {
