@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ggg",
+        "gCg",
+        "ggg"
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "C": {
+            "item": "minecraft:carrot"
+        }
+    },
+    "result": {
+        "item": "minecraft:golden_carrot",
+        "count": 1
+    },
+    "group": "Food"
+}

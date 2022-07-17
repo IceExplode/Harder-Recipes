@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "OUO"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:light_gray_wool"
+        },
+        "O": {
+            "tag": "minecraft:logs"
+        },
+        "U": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:light_gray_bed",
+        "count": 1
+    },
+    "group": "Colored Bed"
+}

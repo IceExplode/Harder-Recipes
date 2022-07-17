@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:raw_copper"
+        }
+    },
+    "result": {
+        "item": "minecraft:raw_copper_block",
+        "count": 1
+    },
+    "group": "Collectibles"
+}

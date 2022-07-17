@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  /",
+        " /S",
+        "/TS"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "T": [
+            {
+                "item": "minecraft:seagrass"
+            },
+            {
+                "item": "minecraft:kelp"
+            }
+        ]
+    },
+    "result": {
+        "item": "minecraft:fishing_rod",
+        "count": 1
+    },
+    "group": "Fishing Rods"
+}

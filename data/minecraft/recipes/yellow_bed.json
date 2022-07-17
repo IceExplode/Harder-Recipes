@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "OAO"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:yellow_wool"
+        },
+        "O": {
+            "tag": "minecraft:logs"
+        },
+        "A": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:yellow_bed",
+        "count": 1
+    },
+    "group": "Colored Bed"
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "/S/",
+        "/ /",
+        "L L"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "S": {
+            "tag": "minecraft:stone_tool_materials"
+        },
+        "L": {
+            "tag": "minecraft:logs"
+        }
+    },
+    "result": {
+        "item": "minecraft:grindstone",
+        "count": 1
+    },
+    "group": "Stationary Block"
+}

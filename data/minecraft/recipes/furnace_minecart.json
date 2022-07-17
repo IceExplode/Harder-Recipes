@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:furnace"
+        },
+        {
+            "item": "minecraft:minecart"
+        }
+    ],
+    "result": {
+        "item": "minecraft:furnace_minecart",
+        "count": 1
+    },
+    "group": "Minecarts"
+}

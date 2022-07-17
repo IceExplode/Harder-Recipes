@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "/J/",
+        "/J/"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "J": {
+            "item": "minecraft:jungle_planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:jungle_fence_gate",
+        "count": 1
+    },
+    "group": "Fence Gate"
+}

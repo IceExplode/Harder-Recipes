@@ -1,0 +1,59 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iRi",
+        "iPi",
+        "iRi"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "P": [
+            {
+                "item": "minecraft:stone_pressure_plate"
+            },
+            {
+                "item": "minecraft:oak_pressure_plate"
+            },
+            {
+                "item": "minecraft:spruce_pressure_plate"
+            },
+            {
+                "item": "minecraft:birch_pressure_plate"
+            },
+            {
+                "item": "minecraft:jungle_pressure_plate"
+            },
+            {
+                "item": "minecraft:acacia_pressure_plate"
+            },
+            {
+                "item": "minecraft:dark_oak_pressure_plate"
+            },
+            {
+                "item": "minecraft:light_weighted_pressure_plate"
+            },
+            {
+                "item": "minecraft:heavy_weighted_pressure_plate"
+            },
+            {
+                "item": "minecraft:warped_pressure_plate"
+            },
+            {
+                "item": "minecraft:crimson_pressure_plate"
+            },
+            {
+                "item": "minecraft:polished_blackstone_pressure_plate"
+            }
+        ]
+    },
+    "result": {
+        "item": "minecraft:detector_rail",
+        "count": 16
+    },
+    "group": "Rails"
+}

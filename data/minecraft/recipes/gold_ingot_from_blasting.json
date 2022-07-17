@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": [
+        {
+            "item": "minecraft:raw_gold"
+        },
+        {
+            "item": "minecraft:deepslate_gold_ore"
+        },
+        {
+            "item": "minecraft:nether_gold_ore"
+        },
+        {
+            "item": "minecraft:gilded_blackstone"
+        }
+    ],
+    "result": "minecraft:gold_ingot",
+    "experience": 1,
+    "cookingtime": 125,
+    "group": "Valuable Minerals"
+}

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "CnC",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stone_bricks"
+        },
+        "S": {
+            "item": "minecraft:smooth_stone"
+        },
+        "C": {
+            "item": "minecraft:chiseled_stone_bricks"
+        },
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:lodestone",
+        "count": 1
+    },
+    "group": "Utility"
+}

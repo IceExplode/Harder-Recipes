@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " H ",
+    "HSH",
+    " H "
+  ],
+  "key": {
+    "H": {
+      "item": "minecraft:honeycomb"
+    },
+    "key": {
+      "S": {
+        "item": "minecraft:copper_block"
+      }
+    }
+  },
+  "result": {
+    "item": "minecraft:waxed_copper_block"
+  },
+  "group": "Waxed Copper"
+}

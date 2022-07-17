@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#B#",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:stones"
+        },
+        "B": {
+            "tag": "minecraft:far_distance_weapon"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:dispenser",
+        "count": 1
+    },
+    "group": "Redstone Components"
+}

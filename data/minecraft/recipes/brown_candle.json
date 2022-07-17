@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:candle"
+        },
+        {
+            "item": "minecraft:brown_dye"
+        },
+        {
+            "item": "minecraft:brown_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:brown_candle",
+        "count": 1
+    },
+    "group": "Candle"
+}

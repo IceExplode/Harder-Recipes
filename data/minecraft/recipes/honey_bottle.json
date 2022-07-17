@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#H#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glass_bottle"
+        },
+        "H": {
+            "item": "minecraft:honey_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:honey_bottle",
+        "count": 8
+    },
+    "group": "Food"
+}

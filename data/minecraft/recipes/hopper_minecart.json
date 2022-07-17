@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:minecart"
+        },
+        {
+            "item": "minecraft:hopper"
+        }
+    ],
+    "result": {
+        "item": "minecraft:hopper_minecart",
+        "count": 1
+    },
+    "group": "Minecarts"
+}

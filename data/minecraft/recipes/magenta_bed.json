@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "OGO"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:magenta_wool"
+        },
+        "O": {
+            "tag": "minecraft:logs"
+        },
+        "G": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:magenta_bed",
+        "count": 1
+    },
+    "group": "Colored Bed"
+}

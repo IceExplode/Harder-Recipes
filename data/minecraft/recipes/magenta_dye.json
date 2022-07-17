@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            {
+                "item": "minecraft:allium"
+            },
+            {
+                "item": "minecraft:lilac"
+            }
+        ]
+    ],
+    "result": {
+        "item": "minecraft:magenta_dye",
+        "count": 1
+    },
+    "group": "Dyes"
+}

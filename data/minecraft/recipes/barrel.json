@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "L_L",
+        "PiP",
+        "L_L"
+    ],
+    "key": {
+        "L": {
+            "tag": "minecraft:logs"
+        },
+        "_": {
+            "tag": "minecraft:wooden_slabs"
+        },
+        "P": {
+            "tag": "minecraft:planks"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:barrel",
+        "count": 1
+    },
+    "group": "Storage"
+}

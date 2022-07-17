@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#M"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cobblestone"
+        },
+        "M": {
+            "tag": "minecraft:moss_blocks"
+        }
+    },
+    "result": {
+        "item": "minecraft:mossy_cobblestone",
+        "count": 1
+    },
+    "group": "Building Blocks"
+}

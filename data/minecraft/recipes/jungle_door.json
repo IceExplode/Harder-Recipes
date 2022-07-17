@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "Ji",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:jungle_logs"
+        },
+        "J": {
+            "item": "minecraft:jungle_planks"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:jungle_door",
+        "count": 3
+    },
+    "group": "Door"
+}

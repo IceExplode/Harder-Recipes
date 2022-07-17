@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#P#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:prismarine_crystals"
+        },
+        "P": [
+            {
+                "item": "minecraft:prismarine"
+            },
+            {
+                "item": "minecraft:prismarine_bricks"
+            },
+            {
+                "item": "minecraft:dark_prismarine"
+            }
+        ]
+    },
+    "result": {
+        "item": "minecraft:sea_lantern",
+        "count": 1
+    },
+    "group": "Light"
+}

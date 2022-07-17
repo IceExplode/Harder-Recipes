@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#N#",
+        "#N#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:nether_bricks"
+        },
+        "N": {
+            "item": "minecraft:nether_brick"
+        }
+    },
+    "result": {
+        "item": "minecraft:nether_brick_fence",
+        "count": 2
+    },
+    "group": "Fence"
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#F",
+        "IG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:book"
+        },
+        "F": {
+            "item": "minecraft:feather"
+        },
+        "I": {
+            "item": "minecraft:ink_sac"
+        },
+        "G": {
+            "item": "minecraft:glass_bottle"
+        }
+    },
+    "result": {
+        "item": "minecraft:writable_book",
+        "count": 1
+    },
+    "group": "Utility"
+}

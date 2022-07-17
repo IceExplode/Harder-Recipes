@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:spruce_boat"
+        },
+        [
+            {
+                "item": "minecraft:chest"
+            },
+            {
+                "item": "minecraft:trapped_chest"
+            }
+        ]
+    ],
+    "result": {
+        "item": "minecraft:spruce_chest_boat",
+        "count": 1
+    },
+    "group": "Chest Boats"
+}

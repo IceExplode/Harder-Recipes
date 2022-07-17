@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "OZO"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:red_wool"
+        },
+        "O": {
+            "tag": "minecraft:logs"
+        },
+        "Z": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:red_bed",
+        "count": 1
+    },
+    "group": "Colored Bed"
+}

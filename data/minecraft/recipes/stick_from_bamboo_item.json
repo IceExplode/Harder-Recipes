@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bamboo"
+        }
+    },
+    "result": {
+        "item": "minecraft:stick",
+        "count": 1
+    },
+    "group": "Stick Recipes"
+}

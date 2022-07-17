@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "QQQ",
+        "___"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glass"
+        },
+        "Q": {
+            "item": "minecraft:quartz"
+        },
+        "_": {
+            "item": "minecraft:oak_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:daylight_detector",
+        "count": 1
+    },
+    "group": "Redstone Components"
+}

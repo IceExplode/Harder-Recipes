@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "OXO"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:pink_wool"
+        },
+        "O": {
+            "tag": "minecraft:logs"
+        },
+        "X": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:pink_bed",
+        "count": 1
+    },
+    "group": "Colored Bed"
+}

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        " B ",
+        "_R_"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:wooden_stairs"
+        },
+        "B": {
+            "item": "minecraft:bookshelf"
+        },
+        "_": {
+            "tag": "minecraft:wooden_slabs"
+        },
+        "R": {
+            "tag": "minecraft:carpets"
+        }
+    },
+    "result": {
+        "item": "minecraft:lectern",
+        "count": 1
+    },
+    "group": "Redstone Components"
+}

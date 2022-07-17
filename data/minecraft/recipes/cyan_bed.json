@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "OBO"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cyan_wool"
+        },
+        "O": {
+            "tag": "minecraft:logs"
+        },
+        "B": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:cyan_bed",
+        "count": 1
+    },
+    "group": "Colored Bed"
+}

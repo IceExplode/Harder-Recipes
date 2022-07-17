@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#P#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:black_dye"
+        },
+        "P": {
+            "item": "minecraft:prismarine"
+        }
+    },
+    "result": {
+        "item": "minecraft:dark_prismarine",
+        "count": 1
+    },
+    "group": "Building Blocks"
+}

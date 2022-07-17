@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "OJO"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:green_wool"
+        },
+        "O": {
+            "tag": "minecraft:logs"
+        },
+        "J": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:green_bed",
+        "count": 1
+    },
+    "group": "Colored Bed"
+}

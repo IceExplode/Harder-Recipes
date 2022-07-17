@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:white_wool"
+        },
+        {
+            "item": "minecraft:light_blue_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:magenta_wool",
+        "count": 1
+    },
+    "group": "Wool"
+}

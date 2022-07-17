@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "Si",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:spruce_logs"
+        },
+        "S": {
+            "item": "minecraft:spruce_planks"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:spruce_door",
+        "count": 3
+    },
+    "group": "Door"
+}

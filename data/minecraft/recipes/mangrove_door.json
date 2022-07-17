@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "Mi",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:mangrove_logs"
+        },
+        "M": {
+            "item": "minecraft:mangrove_planks"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:mangrove_door",
+        "count": 3
+    },
+    "group": "Door"
+}

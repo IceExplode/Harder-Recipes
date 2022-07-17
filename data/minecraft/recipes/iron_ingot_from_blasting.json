@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": [
+        {
+            "item": "minecraft:iron_ore"
+        },
+        {
+            "item": "minecraft:raw_iron"
+        },
+        {
+            "item": "minecraft:deepslate_iron_ore"
+        }
+    ],
+    "result": "minecraft:iron_ingot",
+    "experience": 0.7,
+    "cookingtime": 125,
+    "group": "Valuable Minerals"
+}
