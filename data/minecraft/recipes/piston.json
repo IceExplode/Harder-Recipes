@@ -17,6 +17,9 @@
         },
         "R": {
             "item": "minecraft:redstone_torch"
+        },
+        "P": {
+            "tag": "minecraft:planks"
         }
     },
     "result": {
