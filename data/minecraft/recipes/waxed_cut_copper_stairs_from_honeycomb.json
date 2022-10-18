@@ -1,20 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " H ",
-    "H#H",
-    " H "
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:cut_copper_stairs"
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:cut_copper_stairs"
+        },
+        {
+            "item": "minecraft:honeycomb"
+        },
+        {
+            "item": "minecraft:honeycomb"
+        }
+    ],
+    "result": {
+        "item": "minecraft:waxed_cut_copper_stairs",
+        "count": 1
     },
-    "H":{
-      "item": "minecraft:honeycomb"
-    }
-  },
-  "result": {
-    "item": "minecraft:waxed_cut_copper_stairs"
-  },
-  "group": "Waxed Copper"
+    "group": "Waxed Copper Stairs"
 }

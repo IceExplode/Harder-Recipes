@@ -1,20 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " H ",
-    "H#H",
-    " H "
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:weathered_cut_copper_slab"
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:weathered_cut_copper_slab"
+        },
+        {
+            "item": "minecraft:honeycomb"
+        },
+        {
+            "item": "minecraft:honeycomb"
+        }
+    ],
+    "result": {
+        "item": "minecraft:waxed_weathered_cut_copper_slab",
+        "count": 1
     },
-    "H":{
-      "item": "minecraft:honeycomb"
-    }
-  },
-  "result": {
-    "item": "minecraft:waxed_weathered_cut_copper_slab"
-  },
-  "group": "Waxed Copper"
+    "group": "Waxed Copper Slabs"
 }

@@ -1,20 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " H ",
-    "H#H",
-    " H "
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:exposed_cut_copper"
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:exposed_cut_copper"
+        },
+        {
+            "item": "minecraft:honeycomb"
+        },
+        {
+            "item": "minecraft:honeycomb"
+        }
+    ],
+    "result": {
+        "item": "minecraft:waxed_exposed_cut_copper",
+        "count": 1
     },
-    "H":{
-      "item": "minecraft:honeycomb"
-    }
-  },
-  "result": {
-    "item": "minecraft:waxed_exposed_cut_copper"
-  },
-  "group": "Waxed Copper"
+    "group": "Waxed Copper"
 }
