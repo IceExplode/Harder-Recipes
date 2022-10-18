@@ -1,21 +1,21 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "# #",
-        "#C#",
-        " # "
+        "i i",
+        "iTi",
+        " i "
     ],
     "key": {
-        "#": {
-            "item": "minecraft:iron_ingots"
+        "i": {
+            "item": "minecraft:iron_ingot"
         },
-        "C": [
+        "T": [
             {
                 "item": "minecraft:chest"
             },
             {
                 "item": "minecraft:trapped_chest"
-            },
+            }
         ]
     },
     "result": {
