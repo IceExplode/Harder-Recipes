@@ -1,9 +1,9 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
+        "L#L",
         "HHH",
-        "###"
+        "L#L"
     ],
     "key": {
         "#": {
@@ -11,11 +11,14 @@
         },
         "H": {
             "item": "minecraft:honeycomb"
+        },
+        "L": {
+            "tag": "minecraft:logs"
         }
     },
     "result": {
         "item": "minecraft:beehive",
         "count": 1
     },
-    "group": "Utility"
+    "group": "Functional Blocks"
 }

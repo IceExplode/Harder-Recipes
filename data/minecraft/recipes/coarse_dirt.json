@@ -1,9 +1,8 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "#G#",
-        "G#G",
-        "#G#"
+        "#G",
+        "G#"
     ],
     "key": {
         "#": {
@@ -15,7 +14,7 @@
     },
     "result": {
         "item": "minecraft:coarse_dirt",
-        "count": 3
+        "count": 2
     },
-    "group": "Collectibles"
+    "group": "Nature"
 }
