@@ -1,9 +1,8 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
-        "# #",
-        "###"
+        "##",
+        "##"
     ],
     "key": {
         "#": {
@@ -14,5 +13,5 @@
         "item": "minecraft:honey_block",
         "count": 1
     },
-    "group": "Collectibles"
+    "group": "Redstone-Related Items"
 }
