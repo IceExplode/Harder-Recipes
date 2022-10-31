@@ -3,7 +3,7 @@
     "pattern": [
         "/W/",
         "/ /",
-        "/ /"
+        "///"
     ],
     "key": {
         "/": {
@@ -17,5 +17,5 @@
         "item": "minecraft:scaffolding",
         "count": 1
     },
-    "group": "Utility"
+    "group": "Functional Blocks"
 }
