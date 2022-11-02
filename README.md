@@ -20,6 +20,10 @@ Stone items (Like slabs, walls, stairs etc.) can't be crafted using crafting tab
 
 Recipe book will have less recipe, if unlocked all recipes, than without datapack. Thanks to the effective grouping.
 
+### Files
+
+#### To view Resource Pack files and switch between the versions, you need to change the branch!
+
 ## Warning
 
 ***The datapack is in alpha***. So the issues may exist. I don't recommend play with it in long term world, since recipes can change.
