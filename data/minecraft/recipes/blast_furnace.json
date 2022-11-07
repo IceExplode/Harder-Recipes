@@ -13,7 +13,7 @@
             "item": "minecraft:furnace"
         },
         "P": {
-            "tag": "minecraft:stone_crafting_materials"
+            "item": "minecraft:smooth_stone"
         }
     },
     "result": {

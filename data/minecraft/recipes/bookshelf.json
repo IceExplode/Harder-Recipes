@@ -1,9 +1,9 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
+        "L#L",
         "BBB",
-        "###"
+        "L#L"
     ],
     "key": {
         "#": {
@@ -11,6 +11,9 @@
         },
         "B": {
             "item": "minecraft:book"
+        },
+        "L": {
+            "tag": "minecraft:logs"
         }
     },
     "result": {

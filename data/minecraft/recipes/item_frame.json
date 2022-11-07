@@ -1,16 +1,13 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "/_/",
-        "_L_",
-        "/_/"
+        "///",
+        "/L/",
+        "///"
     ],
     "key": {
         "/": {
             "item": "minecraft:stick"
-        },
-        "_": {
-            "tag": "minecraft:wooden_slabs"
         },
         "L": {
             "item": "minecraft:leather"

@@ -1,19 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "S#S",
-        "#W#",
-        "S#S"
+        "SSS",
+        "SWS",
+        "SSS"
     ],
     "key": {
-        "#": {
-            "tag": "minecraft:planks"
-        },
         "W": {
-            "tag": "minecraft:wools"
+            "tag": "minecraft:wool"
         },
         "S": {
-            "item": "minecraft:string"
+            "item": "minecraft:stick"
         }
     },
     "result": {
