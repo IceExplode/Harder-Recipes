@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:dispenser"
+      }
+    },
+    "has_far_distance_weapon": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:far_distance_weapon"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_far_distance_weapon",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:dispenser",
+      "minecraft:dispenser_from_dropper"
+    ]
+  }
+}
