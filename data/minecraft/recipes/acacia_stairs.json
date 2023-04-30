@@ -1,4 +1,5 @@
 {
+    "category": "building",
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "#  ",
@@ -14,5 +15,6 @@
         "item": "minecraft:acacia_stairs",
         "count": 4
     },
+    "show_notification": "true",
     "group": "Wooden Stairs"
 }

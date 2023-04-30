@@ -1,4 +1,5 @@
 {
+    "category": "redstone",
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "##",
@@ -20,5 +21,6 @@
         "item": "minecraft:oak_door",
         "count": 3
     },
+    "show_notification": "true",
     "group": "Door"
 }

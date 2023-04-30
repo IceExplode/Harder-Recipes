@@ -1,4 +1,5 @@
 {
+    "category": "redstone",
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "##"
@@ -12,5 +13,6 @@
         "item": "minecraft:oak_pressure_plate",
         "count": 1
     },
+    "show_notification": "true",
     "group": "Pressure Plate"
 }

@@ -1,17 +1,19 @@
 {
+  "category": "building",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "SSS",
-    "SSS",
-    "SSS"
+    "###",
+    "###",
+    "###"
   ],
   "key": {
-    "S": {
+    "#": {
       "item": "minecraft:amethyst_shard"
     }
   },
   "result": {
     "item": "minecraft:amethyst_block"
   },
+  "show_notification": "true",
     "group": "Nature"
 }

@@ -1,4 +1,5 @@
 {
+    "category": "misc",
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "#G#",
@@ -20,5 +21,6 @@
         "item": "minecraft:beacon",
         "count": 1
     },
+    "show_notification": "true",
     "group": "Functional Blocks"
 }
