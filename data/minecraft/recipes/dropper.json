@@ -1,4 +1,5 @@
 {
+    "category": "redstone",
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "###",
@@ -17,5 +18,6 @@
         "item": "minecraft:dropper",
         "count": 1
     },
+    "show_notification": "true",
     "group": "Redstone Components"
 }

@@ -1,4 +1,5 @@
 {
+    "category": "food",
     "type": "minecraft:campfire_cooking",
     "ingredient": {
         "item": "minecraft:rabbit"
