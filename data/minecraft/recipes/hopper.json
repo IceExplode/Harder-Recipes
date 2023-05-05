@@ -1,4 +1,5 @@
 {
+    "category": "redstone",
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "i i",
@@ -22,5 +23,6 @@
         "item": "minecraft:hopper",
         "count": 1
     },
+    "show_notification": "true",
     "group": "Redstone Components"
 }

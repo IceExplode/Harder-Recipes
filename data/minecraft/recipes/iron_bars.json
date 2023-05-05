@@ -1,4 +1,5 @@
 {
+    "category": "misc",
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "iii",
@@ -13,5 +14,6 @@
         "item": "minecraft:iron_bars",
         "count": 12
     },
+    "show_notification": "true",
     "group": "Other"
 }

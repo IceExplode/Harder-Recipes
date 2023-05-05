@@ -1,7 +1,8 @@
 {
+    "category": "blocks",
     "type": "minecraft:smelting",
     "ingredient": {
-        "tag": "minecraft:sand"
+        "tag": "minecraft:smelts_to_glass"
     },
     "result": "minecraft:glass",
     "experience": 0.1,
