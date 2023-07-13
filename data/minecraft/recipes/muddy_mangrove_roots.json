@@ -1,16 +1,18 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "minecraft:mud"
-        },
-        {
-            "item": "minecraft:mangrove_roots"
-        }
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "###"
     ],
+    "key": {
+        "#": {
+            "item": "minecraft:barrier"
+        }
+    },
     "result": {
-        "item": "minecraft:muddy_mangrove_roots",
+        "item": "minecraft:barrier",
         "count": 1
     },
-    "group": "Nature"
+    "group": "Hidden"
 }
