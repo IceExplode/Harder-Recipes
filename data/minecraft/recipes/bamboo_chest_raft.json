@@ -1,0 +1,22 @@
+{
+    "category": "misc",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:bamboo_raft"
+        },
+        [
+            {
+                "item": "minecraft:chest"
+            },
+            {
+                "item": "minecraft:trapped_chest"
+            }
+        ]
+    ],
+    "result": {
+        "item": "minecraft:bamboo_chest_raft",
+        "count": 1
+    },
+    "group": "Chest Boats"
+}
