@@ -1,0 +1,19 @@
+{
+    "category": "redstone",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cherry_planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:cherry_trapdoor",
+        "count": 2
+    },
+    "group": "Trapdoor",
+    "show_notification": true
+}

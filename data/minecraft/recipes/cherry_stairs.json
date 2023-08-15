@@ -1,0 +1,20 @@
+{
+    "category": "building",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cherry_planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:cherry_stairs",
+        "count": 4
+    },
+    "group": "Wooden Stairs",
+    "show_notification": true
+}

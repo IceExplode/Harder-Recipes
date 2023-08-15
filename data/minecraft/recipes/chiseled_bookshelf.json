@@ -1,0 +1,25 @@
+{
+    "category": "building",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#O#",
+        "___",
+        "#O#"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:logs"
+        },
+        "O": {
+            "tag": "minecraft:planks"
+        },
+        "_": {
+            "tag": "minecraft:wooden_slabs"
+        }
+    },
+    "result": {
+        "item": "minecraft:chiseled_bookshelf",
+        "count": 1
+    },
+    "group": "Building Blocks"
+}

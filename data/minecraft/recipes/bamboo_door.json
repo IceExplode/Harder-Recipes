@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "pattern": [
+        "##",
+        "Bi",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:bamboo_blocks"
+        },
+        "B": {
+            "item": "minecraft:bamboo_planks"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:bamboo_door",
+        "count": 3
+    },
+    "group": "Door",
+    "show_notification": true
+}

@@ -1,0 +1,39 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "#W#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bamboo_planks"
+        },
+        "W": [
+            {
+                "item": "minecraft:wooden_shovel"
+            },
+            {
+                "item": "minecraft:stone_shovel"
+            },
+            {
+                "item": "minecraft:iron_shovel"
+            },
+            {
+                "item": "minecraft:golden_shovel"
+            },
+            {
+                "item": "minecraft:diamond_shovel"
+            },
+            {
+                "item": "minecraft:netherite_shovel"
+            }
+        ]
+    },
+    "result": {
+        "item": "minecraft:bamboo_raft",
+        "count": 1
+    },
+    "group": "Boat",
+    "show_notification": true
+}

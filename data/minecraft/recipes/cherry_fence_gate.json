@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "pattern": [
+        "/C/",
+        "/C/"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "C": {
+            "item": "minecraft:cherry_planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:cherry_fence_gate",
+        "count": 1
+    },
+    "group": "Fence Gate",
+    "show_notification": true
+}

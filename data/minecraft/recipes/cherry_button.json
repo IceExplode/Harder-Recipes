@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cherry_planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:cherry_button",
+        "count": 1
+    },
+    "group": "Wooden Button"
+}

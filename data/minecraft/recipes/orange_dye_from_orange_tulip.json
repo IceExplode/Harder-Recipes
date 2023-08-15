@@ -2,9 +2,14 @@
     "category": "misc",
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-        {
-            "item": "minecraft:orange_tulip"
-        }
+        [   
+            {
+            	"item": "minecraft:orange_tulip"
+            },
+            {
+            	"item": "minecraft:torchflower"
+            }
+        ]
     ],
     "result": {
         "item": "minecraft:orange_dye",

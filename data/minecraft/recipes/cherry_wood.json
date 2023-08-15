@@ -1,0 +1,18 @@
+{
+    "category": "building",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cherry_log"
+        }
+    },
+    "result": {
+        "item": "minecraft:cherry_wood",
+        "count": 1
+    },
+    "group": "Wood",
+    "show_notification": true
+}

@@ -1,0 +1,18 @@
+{
+    "category": "building",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cherry_planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:cherry_slab",
+        "count": 6
+    },
+    "group": "Wooden Slab",
+    "show_notification": true
+}
