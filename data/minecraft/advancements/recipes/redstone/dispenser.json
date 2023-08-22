@@ -29,5 +29,6 @@
       "minecraft:dispenser",
       "minecraft:dispenser_from_dropper"
     ]
-  }
+  },
+  "sends_telemetry_event": false
 }

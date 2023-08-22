@@ -30,5 +30,6 @@
     "recipes": [
       "minecraft:rabbit_stew"
     ]
-  }
+  },
+  "sends_telemetry_event": false
 }
