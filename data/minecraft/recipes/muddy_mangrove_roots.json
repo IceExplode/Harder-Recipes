@@ -1,16 +1,15 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "minecraft:mud"
-        },
-        {
-            "item": "minecraft:mangrove_roots"
-        }
-    ],
-    "result": {
-        "item": "minecraft:muddy_mangrove_roots",
-        "count": 1
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:mud"
     },
-    "group": "Nature"
+    {
+      "item": "minecraft:mangrove_roots"
+    }
+  ],
+  "result": {
+    "item": "minecraft:muddy_mangrove_roots"
+  },
+  "group": "Nature"
 }

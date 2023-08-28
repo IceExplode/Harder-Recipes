@@ -16,7 +16,7 @@
             "tag": "minecraft:wooden_slabs"
         },
         "R": {
-            "tag": "minecraft:carpets"
+            "item": "minecraft:red_carpet"
         }
     },
     "result": {

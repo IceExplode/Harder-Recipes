@@ -1,5 +1,18 @@
 {
-  "type": "crafting_shapeless",
-  "ingredients": [{"item": "minecraft:structure_void"}],
-  "result": {"item": "minecraft:structure_void"}
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:barrier"
+        }
+    },
+    "result": {
+        "item": "minecraft:barrier",
+        "count": 1
+    },
+    "group": "Hidden"
 }

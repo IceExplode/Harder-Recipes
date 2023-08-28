@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "###",
-        "OZO"
+        "OPO"
     ],
     "key": {
         "#": {
@@ -11,7 +11,7 @@
         "O": {
             "tag": "minecraft:logs"
         },
-        "Z": {
+        "P": {
             "tag": "minecraft:planks"
         }
     },

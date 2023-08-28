@@ -1,17 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "SSS",
-    "SSS",
-    "SSS"
+    "###",
+    "###",
+    "###"
   ],
   "key": {
-    "S": {
+    "#": {
       "item": "minecraft:amethyst_shard"
     }
   },
   "result": {
     "item": "minecraft:amethyst_block"
   },
-    "group": "Nature"
+  "group": "Nature"
 }
