@@ -8,7 +8,7 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:oak_planks"
+            "tag": "minecraft:planks"
         },
         "B": {
             "item": "minecraft:book"
