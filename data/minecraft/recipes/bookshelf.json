@@ -1,16 +1,19 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
+        "L#L",
         "BBB",
-        "###"
+        "L#L"
     ],
     "key": {
         "#": {
-            "item": "minecraft:oak_planks"
+            "tag": "minecraft:planks"
         },
         "B": {
             "item": "minecraft:book"
+        },
+        "L": {
+            "tag": "minecraft:logs"
         }
     },
     "result": {

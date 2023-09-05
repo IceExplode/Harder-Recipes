@@ -12,56 +12,9 @@
         "C": {
             "tag": "minecraft:coals"
         },
-        "T": [
-            {
-                "item": "minecraft:oak_wood"
-            },
-            {
-                "item": "minecraft:spruce_wood"
-            },
-            {
-                "item": "minecraft:birch_wood"
-            },
-            {
-                "item": "minecraft:jungle_wood"
-            },
-            {
-                "item": "minecraft:acacia_wood"
-            },
-            {
-                "item": "minecraft:dark_oak_wood"
-            },
-            {
-                "item": "minecraft:stripped_oak_wood"
-            },
-            {
-                "item": "minecraft:stripped_spruce_wood"
-            },
-            {
-                "item": "minecraft:stripped_birch_wood"
-            },
-            {
-                "item": "minecraft:stripped_jungle_wood"
-            },
-            {
-                "item": "minecraft:stripped_acacia_wood"
-            },
-            {
-                "item": "minecraft:stripped_dark_oak_wood"
-            },
-            {
-                "item": "minecraft:crimson_hyphae"
-            },
-            {
-                "item": "minecraft:warped_hyphae"
-            },
-            {
-                "item": "minecraft:stripped_crimson_hyphae"
-            },
-            {
-                "item": "minecraft:stripped_warped_hyphae"
-            }
-        ]
+        "T": {
+            "tag": "minecraft:logs"
+        }
     },
     "result": {
         "item": "minecraft:campfire",

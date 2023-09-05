@@ -2,18 +2,14 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "/S/",
-        "/ /",
-        "L L"
+        "/ /"
     ],
     "key": {
         "/": {
             "item": "minecraft:stick"
         },
         "S": {
-            "tag": "minecraft:stone_tool_materials"
-        },
-        "L": {
-            "tag": "minecraft:logs"
+            "item": "minecraft:stone_slab"
         }
     },
     "result": {
