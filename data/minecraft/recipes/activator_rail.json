@@ -21,6 +21,6 @@
         "item": "minecraft:activator_rail",
         "count": 16
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Rails"
 }

@@ -21,6 +21,6 @@
         "item": "minecraft:jungle_door",
         "count": 3
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Door"
 }

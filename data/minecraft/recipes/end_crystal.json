@@ -24,6 +24,6 @@
         "item": "minecraft:end_crystal",
         "count": 1
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Magic"
 }

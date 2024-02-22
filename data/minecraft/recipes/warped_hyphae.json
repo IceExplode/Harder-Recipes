@@ -13,6 +13,6 @@
         "item": "minecraft:warped_hyphae",
         "count": 1
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Wood"
 }

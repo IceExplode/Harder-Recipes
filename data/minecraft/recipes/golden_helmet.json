@@ -17,6 +17,6 @@
         "item": "minecraft:golden_helmet",
         "count": 1
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Golden Armor"
 }

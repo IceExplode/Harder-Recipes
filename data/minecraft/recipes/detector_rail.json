@@ -56,6 +56,6 @@
         "item": "minecraft:detector_rail",
         "count": 16
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Rails"
 }

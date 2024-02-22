@@ -17,6 +17,6 @@
         "item": "minecraft:coarse_dirt",
         "count": 2
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Nature"
 }

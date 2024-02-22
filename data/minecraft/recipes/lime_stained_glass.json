@@ -13,6 +13,6 @@
         "item": "minecraft:lime_stained_glass",
         "count": 1
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Colored Glass"
 }

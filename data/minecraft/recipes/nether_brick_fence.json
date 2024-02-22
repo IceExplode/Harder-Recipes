@@ -17,6 +17,6 @@
         "item": "minecraft:nether_brick_fence",
         "count": 2
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Fence"
 }

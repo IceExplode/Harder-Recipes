@@ -14,6 +14,6 @@
         "item": "minecraft:bricks",
         "count": 1
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Bricks"
 }

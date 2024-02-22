@@ -1,7 +1,7 @@
 {
   "category": "misc",
   "type": "minecraft:crafting_shaped",
-  "show_notification": "true",
+  "show_notification": true,
   "group": "Stationary Block",
   "pattern": [
     " # ",

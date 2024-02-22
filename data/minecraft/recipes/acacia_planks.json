@@ -10,6 +10,6 @@
         "item": "minecraft:acacia_planks",
         "count": 4
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Planks"
 }

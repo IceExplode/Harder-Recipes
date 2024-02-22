@@ -13,6 +13,6 @@
         "item": "minecraft:yellow_terracotta",
         "count": 1
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Colored Terracotta"
 }

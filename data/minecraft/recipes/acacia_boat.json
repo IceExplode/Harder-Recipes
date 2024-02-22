@@ -30,7 +30,7 @@
             }
         ]
     },
-    "show_notification": "true",
+    "show_notification": true,
     "result": {
         "item": "minecraft:acacia_boat",
         "count": 1

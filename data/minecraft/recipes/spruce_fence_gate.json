@@ -17,6 +17,6 @@
         "item": "minecraft:spruce_fence_gate",
         "count": 1
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Fence Gate"
 }

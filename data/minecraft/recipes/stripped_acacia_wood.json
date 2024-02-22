@@ -13,6 +13,6 @@
         "item": "minecraft:stripped_acacia_wood",
         "count": 1
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Stripped Wood"
 }

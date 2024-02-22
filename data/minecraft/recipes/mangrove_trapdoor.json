@@ -10,7 +10,7 @@
             "item": "minecraft:mangrove_planks"
         }
     },
-    "show_notification": "true",
+    "show_notification": true,
     "result": {
         "item": "minecraft:mangrove_trapdoor",
         "count": 2

@@ -13,6 +13,6 @@
         "item": "minecraft:jack_o_lantern",
         "count": 1
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Light"
 }

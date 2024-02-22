@@ -14,6 +14,6 @@
         "item": "minecraft:honey_block",
         "count": 1
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Redstone-Related Items"
 }

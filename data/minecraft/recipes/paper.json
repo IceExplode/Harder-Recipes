@@ -16,6 +16,6 @@
         "item": "minecraft:paper",
         "count": 3
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Recipe Ingredients"
 }

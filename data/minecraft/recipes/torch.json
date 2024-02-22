@@ -17,6 +17,6 @@
         "item": "minecraft:torch",
         "count": 4
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Light"
 }

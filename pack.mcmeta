@@ -1,6 +1,8 @@
 {
 	"pack": {
 		"pack_format": 15,
+		"min_inclusive": 15, 
+		"max_inclusive": 18,
 		"description": [{"text":"Makes recipes harder! \n","color":"blue"},{"text":"Made by IceExplode","color":"yellow"}]
 	}
 }

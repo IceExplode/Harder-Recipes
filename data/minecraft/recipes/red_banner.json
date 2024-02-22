@@ -18,6 +18,6 @@
         "item": "minecraft:red_banner",
         "count": 1
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Colored Banners"
 }

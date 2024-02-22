@@ -13,6 +13,6 @@
         "item": "minecraft:magenta_stained_glass_pane",
         "count": 1
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Coloring Glass Panes"
 }

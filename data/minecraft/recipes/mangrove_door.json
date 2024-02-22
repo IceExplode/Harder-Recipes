@@ -17,7 +17,7 @@
             "item": "minecraft:iron_ingot"
         }
     },
-    "show_notification": "true",
+    "show_notification": true,
     "result": {
         "item": "minecraft:mangrove_door",
         "count": 3

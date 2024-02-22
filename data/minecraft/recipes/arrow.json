@@ -21,6 +21,6 @@
         "item": "minecraft:arrow",
         "count": 4
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Weapon and ammo"
 }

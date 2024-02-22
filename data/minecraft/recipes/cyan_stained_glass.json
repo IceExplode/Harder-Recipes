@@ -13,6 +13,6 @@
         "item": "minecraft:cyan_stained_glass",
         "count": 1
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Colored Glass"
 }

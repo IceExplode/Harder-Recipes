@@ -26,6 +26,6 @@
         "item": "minecraft:fishing_rod",
         "count": 1
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Tools"
 }

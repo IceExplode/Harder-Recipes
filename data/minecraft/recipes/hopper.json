@@ -23,6 +23,6 @@
         "item": "minecraft:hopper",
         "count": 1
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Redstone Components"
 }

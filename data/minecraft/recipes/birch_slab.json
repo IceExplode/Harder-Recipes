@@ -13,6 +13,6 @@
         "item": "minecraft:birch_slab",
         "count": 6
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Wooden Slab"
 }

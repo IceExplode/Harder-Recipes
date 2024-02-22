@@ -34,6 +34,6 @@
         "item": "minecraft:oak_boat",
         "count": 1
     },
-    "show_notification": "true",
+    "show_notification": true,
     "group": "Boat"
 }
